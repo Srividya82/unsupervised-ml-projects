@@ -26,7 +26,7 @@ The focus is on **Unsupervised Learning** (clustering) and **Image Segmentation*
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/unsupervised-ml-projects.git
+   git clone https://github.com/Srividya82/unsupervised-ml-projects.git
    cd unsupervised-ml-projects
    ```
 
